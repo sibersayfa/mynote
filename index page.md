@@ -1,19 +1,19 @@
-[[#sqlmap cheatsheet]]
-[[#Footprint]]
-[[#Scan Network Discovery]]
-[[#ENUM]]
-[[#Vuln Analysis And SYS]]
-[[#Malware threats & Sniff]]
-[[#Social engineer]]
-[[#DDOS]]
-[[#Session hijac]]
-[[#EVAIDING IDS POTS]]
-[[#Web Servers]]
-[[#Web Applications]]
-[[#wifi]]
-[[#mobile and ıot]]
-[[#Cloud Computing]]
-[[#Crypto tool]]
+- [sqlmap cheatsheet](#sqlmap-cheatsheet)
+- [Footprint](#footprint)
+- [Scan Network Discovery](#scan-network-discovery)
+- [ENUM](#enum)
+- [Vuln Analysis And SYS](#vuln-analysis-and-sys)
+- [Malware threats & Sniff](#malware-threats--sniff)
+- [Social engineer](#social-engineer)
+- [DDOS](#ddos)
+- [Session hijac](#session-hijac)
+- [EVAIDING IDS POTS](#evaiding-ids-pots)
+- [Web Servers](#web-servers)
+- [Web Applications](#web-applications)
+- [wifi](#wifi)
+- [mobile and ıot](#mobile-and-ıot)
+- [Cloud Computing](#cloud-computing)
+- [Crypto tool](#crypto-tool)
 # sqlmap cheatsheet
 
 ### General command:
