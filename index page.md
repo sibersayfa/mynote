@@ -115,7 +115,7 @@ modules searc:  search modules
 workspaces create, load, list
 modules load brute
 modules load recon/domains-hosts/brute_hosts
-**domain add** = insert db domains 
+**domain add** = db insert domains 
 
 ### OSİNT
 
